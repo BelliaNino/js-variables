@@ -23,3 +23,6 @@ const numberOfLettersInAlphabet = null;
 console.log(numberOfLettersInAlphabet); // Output: 26
 
 
+// ex 1.
+const name = `Antonino`;
+console.log(name);
