@@ -27,7 +27,7 @@ console.log(cityNameConcat); // Output: "New York City"
 
 // 5. Tutto in maiscolo
 // Trasforma tutto in maiscuolo la stringa della variabile hello
-const upperCaseHello = hello.toUpperCase(hello);
+const upperCaseHello = hello.toUpperCase();
 console.log(upperCaseHello); // Output: "HELLO"
 
 
