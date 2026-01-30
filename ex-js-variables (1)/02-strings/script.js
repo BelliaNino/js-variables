@@ -27,3 +27,14 @@ console.log(numberOfLettersInAlphabet); // Output: 26
 // ex 1.
 const name = `Antonino`;
 console.log(name);
+
+// ex 2.
+const number = 2026;
+console.log(number);
+
+const text = `Exercise number 2`
+console.log(text);
+
+const bool = false;
+console.log(bool);
+
